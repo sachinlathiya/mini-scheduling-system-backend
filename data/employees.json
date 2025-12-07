@@ -1,0 +1,15 @@
+[
+  { "id": "e1", "name": "Sam Carter", "role": "TCP", "availability": true },
+  { "id": "e2", "name": "Jamie Lee", "role": "LCT", "availability": true },
+  { "id": "e3", "name": "Alex Kim", "role": "Supervisor", "availability": false },
+  { "id": "e4", "name": "Taylor Morgan", "role": "TCP", "availability": true },
+  { "id": "e5", "name": "Riley Patel", "role": "LCT", "availability": true },
+  { "id": "e6", "name": "Jordan Chen", "role": "Supervisor", "availability": false },
+  { "id": "e7", "name": "Casey Nguyen", "role": "TCP", "availability": true },
+  { "id": "e8", "name": "Avery Brooks", "role": "LCT", "availability": true },
+  { "id": "e9", "name": "Morgan Davis", "role": "Supervisor", "availability": true },
+  { "id": "e10", "name": "Dakota Smith", "role": "TCP", "availability": false },
+  { "id": "e11", "name": "Quinn Taylor", "role": "LCT", "availability": true },
+  { "id": "e12", "name": "Harper Johnson", "role": "Supervisor", "availability": true }
+]
+

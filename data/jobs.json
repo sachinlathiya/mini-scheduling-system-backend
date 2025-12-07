@@ -1,0 +1,6 @@
+[
+  { "id": "j1", "name": "Morning Shift", "startTime": "08:00", "endTime": "12:00" },
+  { "id": "j2", "name": "Afternoon Shift", "startTime": "12:00", "endTime": "16:00" },
+  { "id": "j3", "name": "Evening Shift", "startTime": "16:00", "endTime": "20:00" }
+]
+
